@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Asics",
+    "slug": "Asics",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    
+    "userInterfaceStyle": "light",
+    
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      
+      "package": "com.samukeka.Asics"
+    },
+    
+    "extra": {
+      "eas": {
+        "projectId": "191869ef-60e8-4080-b865-0a5cb6b1bedf"
+      }
+    }
+  }
+}
