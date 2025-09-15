@@ -13,3 +13,12 @@ Bem-vindo ao projeto Asics Mobile App, uma aplicação móvel desenvolvida em Re
 - **React Native:** Desenvolva uma aplicação móvel com desempenho nativo para iOS e Android.
 - **Redux (ou Context API):** Gerencie o estado da aplicação de maneira eficiente para uma experiência de usuário fluida.
 - **API de Pagamento:** Integre um serviço de pagamento confiável para transações seguras.
+
+
+
+<img width="390" height="849" alt="image" src="https://github.com/user-attachments/assets/c147c5c5-2e1b-47d9-965d-41c35260f7fc" />
+
+
+<img width="383" height="836" alt="image" src="https://github.com/user-attachments/assets/e2886b4c-fbfe-4a3e-bd90-b9e7b52abc39" />
+
+
